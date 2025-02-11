@@ -1,0 +1,11 @@
+<!DOCTYPE json>
+{
+  "users": [
+    { "id": 1, "name": "Ruben", "email": "ruben@example.com" },
+    { "id": 2, "name": "Boris", "email": "boris@example.com" }
+  ],
+  "products": [
+    { "id": 1, "name": "Race Helm", "price": 199.99 },
+    { "id": 2, "name": "Karting Handschoenen", "price": 49.99 }
+  ]
+}
