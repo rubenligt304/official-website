@@ -1,4 +1,4 @@
-<doctype pgsql> 
+<!DOCTYPE pgsql>
 /mijn-website
  ├── index.html
  ├── database.json
